@@ -3,7 +3,7 @@
   <tr align="center">
     <td colspan="6">
       <p style="font-size: x-large; font-weight: bold;">
-        Digital Hana路 7기 2차 프로젝트 Team1 Sido
+        Digital Hana路 7기 2차 프로젝트 Team1 사랑방 손님
       </p>
     </td>
   </tr>
