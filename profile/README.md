@@ -12,6 +12,8 @@
 
 도시 시니어와 시골 간의 연결 플랫폼으로, 농촌 체험 & 빈집 매물 정보 등 시니어의 귀촌을 도와주는 서비스입니다.
 
+- 🎬 [서비스 시연 영상 링크](https://www.youtube.com/watch?v=kqpT1QHl76E)
+
   <!-- 프로필 + GitHub ID -->
   <tr align="center">
     <td>
