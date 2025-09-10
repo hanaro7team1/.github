@@ -57,3 +57,8 @@
     <td><b>허건</b></td>
   </tr>
 </table>
+
+
+## 💡 **DB 설계 (ERD)**
+<img width="968" height="1052" alt="Untitled" src="https://github.com/user-attachments/assets/273f81d0-a50d-4599-bb8f-9411e0a84c7b" />
+
