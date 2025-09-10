@@ -12,7 +12,7 @@
 
 도시 시니어와 시골 간의 연결 플랫폼으로, 농촌 체험 & 빈집 매물 정보 등 시니어의 귀촌을 도와주는 서비스입니다.
 
-
+<br>
 
   <!-- 프로필 + GitHub ID -->
   <tr align="center">
@@ -59,12 +59,12 @@
 </table>
 
 <br>
-## 💡 **아키텍쳐**
+# 💡 **아키텍쳐**
 <img width="1591" height="1019" alt="시스템구상도" src="https://github.com/user-attachments/assets/696809df-0890-4c51-9673-f1c4adad0eb7" />
 
 
 
 <br>
-## 💡 **DB 설계 (ERD)**
+# 💡 **DB 설계 (ERD)**
 <img width="968" height="1052" alt="Untitled" src="https://github.com/user-attachments/assets/273f81d0-a50d-4599-bb8f-9411e0a84c7b" />
 
