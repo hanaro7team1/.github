@@ -62,6 +62,8 @@
 
 
 ## 💡 **DB 설계 (ERD)**
-
-<img width="865" height="1060" alt="KakaoTalk_Photo_2025-09-10-10-16-30" src="https://github.com/user-attachments/assets/a3d87913-bfce-4a37-bdac-cc800ec18ce3" />
+<p align="center">
+  <img width="865" height="1060" alt="KakaoTalk_Photo_2025-09-10-10-16-30" src="https://github.com/user-attachments/assets/a3d87913-bfce-4a37-bdac-cc800ec18ce3" 
+    />
+</p>
 
