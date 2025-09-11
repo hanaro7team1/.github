@@ -60,6 +60,16 @@
 </table>
 
 ## 💡 앱 기능 설명
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(숙박 체험) (1)" src="https://github.com/user-attachments/assets/ec8ebd15-e1b4-48ba-be37-d6d1d61804cd" />
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(숙박 체험) (2)" src="https://github.com/user-attachments/assets/94d1f14b-2aee-4b76-b858-ef8e26f9a4c6" />
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(숙박 체험) (3)" src="https://github.com/user-attachments/assets/660626bb-a639-4f5c-9991-3dba910763ff" />
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(숙박 체험) (4)" src="https://github.com/user-attachments/assets/429637e4-6ae4-4475-a655-b4438df0dde2" />
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(매물)" src="https://github.com/user-attachments/assets/f4091f5e-992f-463d-a3f7-2e45204ef9a1" />
+<img width="1920" height="1080" alt="서비스 소개 - 주요 기능(지역 축제)" src="https://github.com/user-attachments/assets/396b7b0e-68ea-4566-aef0-527eec36b164" />
+<img width="1920" height="1080" alt="서비스 소개 - 시니어 친화적" src="https://github.com/user-attachments/assets/626ddb39-ffba-4da4-b660-2c999663eb7f" />
+<img width="1920" height="1080" alt="서비스 소개 - 시니어 친화적 (1)" src="https://github.com/user-attachments/assets/e4b5a3ee-8913-4309-a7b4-b691a6db731e" />
+<img width="1920" height="1080" alt="서비스 소개 - 시니어 친화적 (2)" src="https://github.com/user-attachments/assets/926c8301-bc61-4b7c-a603-b62c6054df61" />
+<img width="1920" height="1080" alt="서비스 소개 - 시니어 친화적 (3)" src="https://github.com/user-attachments/assets/e795650d-305b-4756-ac17-013183c5edd0" />
 
 ## 💡 기술 스택
 |분류|<div align="center">기술</div>|
