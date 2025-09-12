@@ -26,7 +26,7 @@
     <td>
       <a href="https://github.com/ryd10227">
         <img src="https://avatars.githubusercontent.com/u/76207466?v=4" width="120" alt="윤서연_깃허브프로필" />
-        <br /><b>caffrose415</b>
+        <br /><b>ryd10227</b>
       </a>
     </td>
     <td>
